@@ -1,2 +1,2 @@
 # JavaScript-DOM-
-JS DOM Manupulation for dummies
+JS DOM Manipulation for dummies
